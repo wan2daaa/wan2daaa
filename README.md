@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan2daaa&layout=compact)
-<img src="https://github-readme-stats.vercel.app/api?username=wan2daaa&show_icons=true">
+![profile-summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wan2daaa&theme=default)
